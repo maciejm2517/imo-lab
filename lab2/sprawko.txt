@@ -1,0 +1,6 @@
+opisac sposob randomizacji
+dwa rodzaje ruchów wewnatrz i miedzy trasowe
+3 binarne stopnie swoboty
+lokalne 
+startowe losowe hertystyczne
+wymiana dwóch wierzchołków lub krawędzi
